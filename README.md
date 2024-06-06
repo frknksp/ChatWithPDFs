@@ -1,0 +1,2 @@
+# ChatWithPDFs
+Simple RAG application
